@@ -1,0 +1,15 @@
+usd, Dólar USA, $
+cad, Dólar Canadá, $
+eur, Euro, €
+jpy, Yen Japonés, ¥
+cny, Yuan Chino, ¥
+btc, Bitcoin, btc
+gbp, Libra Esterlina, £
+ars, Peso Argentino, $
+mxn, Peso Mexicano, $
+chf, Franco Suizo, Fr
+aud, Dólar Australiano, $
+hkd, Dólar Hongkonés, $
+brl, Real Brasileño, R$
+sek, Corona Sueca, kr
+nok, Corona Noruega, kr
