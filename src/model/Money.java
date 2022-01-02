@@ -16,7 +16,7 @@ public class Money {
         return currency;
     }
     
-    public void exchangeMoney() {
+    public void exchangeMoney(double rate, Currency currencyTo) {
 
     }
 }

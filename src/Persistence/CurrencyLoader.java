@@ -16,7 +16,7 @@ public class CurrencyLoader {
         return new Currency(splitLine[0], splitLine[1], splitLine[2]);
     }
     
-    public static List<Currency> read(String file){
+    public static List<Currency> loadCurrencies(String file){
         List<Currency> listCurrencies = new ArrayList<>();
         
         try{
@@ -29,10 +29,10 @@ public class CurrencyLoader {
         }
         
         catch (FileNotFoundException excepcion) {
-            System.out.println("ERROR CurrencyLoaderArchive: loadAllCurrencies FileNotFoundException, " + excepcion);
+            System.out.println("ERROR CurrencyLoader: loadAllCurrencies FileNotFoundException, " + excepcion);
         } 
         catch (IOException ex) {
-            System.out.println("ERROR CurrencyLoaderArchive: loadAllCurrencies IOException, " + ex);
+            System.out.println("ERROR CurrencyLoader: loadAllCurrencies IOException, " + ex);
         }
         return listCurrencies;
     }

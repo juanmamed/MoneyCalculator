@@ -13,3 +13,4 @@ hkd, Dólar Hongkonés, $
 brl, Real Brasileño, R$
 sek, Corona Sueca, kr
 nok, Corona Noruega, kr
+ada, Cardano, ada
