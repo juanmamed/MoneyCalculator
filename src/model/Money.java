@@ -17,6 +17,7 @@ public class Money {
     }
     
     public void exchangeMoney(double rate, Currency currencyTo) {
-
+        this.amount=this.amount*rate;
+        this.currency = currencyTo;
     }
 }

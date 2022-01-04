@@ -4,9 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/model/ExchangeRate.java</file>
+            <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/ui/DialogSwing.java</file>
             <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/Persistence/ExchangeRateLoader.java</file>
             <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/model/Money.java</file>
             <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/model/Currency.java</file>
+            <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/ui/Dialog.java</file>
+            <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/controller/MainFrame.java</file>
+            <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/ui/Display.java</file>
+            <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/ui/DisplaySwing.java</file>
             <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/moneycalculator/MoneyCalculator.java</file>
             <file>file:/C:/Users/Juanma/OneDrive/Documentos/NetBeansProjects/MoneyCalculator/src/Persistence/CurrencyLoader.java</file>
         </group>
