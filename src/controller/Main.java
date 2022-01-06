@@ -1,4 +1,4 @@
-package moneycalculator;
+package controller;
 
 import Persistence.CurrencyLoader;
 import Persistence.ExchangeRateLoader;
@@ -10,7 +10,7 @@ import model.Currency;
 import model.ExchangeRate;
 import org.json.simple.parser.ParseException;
 
-public class MoneyCalculator {
+public class Main {
     public static void main(String[] args) throws IOException, ParseException {
         String file = "currencies.txt";
         String url_base = "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/";

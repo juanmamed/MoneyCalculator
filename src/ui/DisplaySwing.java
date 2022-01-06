@@ -22,7 +22,6 @@ public class DisplaySwing extends JPanel implements Display {
     
     @Override
     public void display(Money money) {
-        //double amount_round = Math.round(money.getAmount()*100)/100;
         currencyTo.setText("" + money.getAmount());
     }
     
